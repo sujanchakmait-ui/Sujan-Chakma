@@ -1,1 +1,1 @@
-
+A proactive BBA (Hospitality & Facilities Management) student at PUMBA, Savitribai Phule Pune University, with a strong foundation in interpersonal skills developed through the Entrepreneurship Development Cell. I am deeply passionate about digital transformation and am an active AI Automation learner, specializing in optimizing workflows using tools like n8n and Zapier. I am seeking a challenging role in a forward-thinking firm where I can apply my operational knowledge and automation skills to drive efficiency and professional growth
