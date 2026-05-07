@@ -13,3 +13,16 @@
 ​LinkedIn: www.linkedin.com/in/sujan-chakma-802b09290
 ​Portfolio: My Projects
 ​Email: sujanchakma.it@gmail.com
+
+
+AI Automation & Workflow Developer (Independent Projects)
+​Advanced Workflow Automation: Architected and maintained end-to-end automation pipelines using n8n and Zapier, focusing on connecting diverse business apps for seamless data flow.
+​AI Model Integration: Built intelligent solutions by integrating OpenAI and Claude (Claw) foundational models into automated workflows, enabling automated text generation and complex data analysis.
+​Prompt Engineering: Optimized Large Language Model (LLM) performance through advanced prompt engineering to ensure accurate and context-aware responses from AI agents.
+​No-Code Engineering: Developed and deployed automated triggers and webhooks to manage real-time tasks, significantly increasing operational efficiency.
+​System Integration: Managed API-driven integrations between Google Workspace, Social Media platforms, and internal Data Stores.
+
+​Skills:
+​Automation Tools: n8n, Zapier.
+​AI Foundations: OpenAI API, Claude/Claw, LLM Prompting.
+​Workflow Design: Webhooks, JSON, API Integration.
